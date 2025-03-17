@@ -1,0 +1,44 @@
+<html>
+    <title>
+        Data Analyst Experience Data
+    </title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <body>
+        <div class="container-fluid" style="background-color: black;">
+            <h1 class="text-center" style="color: white;">
+                {{title}}
+            </h1>
+        </div>
+        <div class="container-fluid">
+            <nav class="navbar navbar-expand-lg bg-body-tertiary">
+              <div class="container-fluid text-center" style="background-color: black;">
+                <a class="navbar-brand" href="http://127.0.0.1:5000/home_page">Home</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/current_job_vacancies_data">Current Job Vacancies Data</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/current_vs_past_job_vacancies">Current vs Past Job Vacancies Data</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/data_analyst_skills_data">Skills Data</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/data_analyst_experience_data">Experience Data</a>
+              </div>
+            </nav>
+        </div>
+        <div class="container-fluid" style="background-color: aliceblue;">
+            <h1 class="text-center" style="background-color: rgb(214, 213, 213);">Experience Required</h1>
+            {{exp_plot|safe}}
+            <h1 class="text-center" style="background-color: rgb(214, 213, 213);">Average Experience Required per company</h1>
+            <table class="table table-dark table-striped" style="background-color: rgba(117, 160, 246, 0.24);">
+                <tr>
+                    {% for header in headers7 %}
+                    <th>{{header}}</th>
+                    {% endfor %}
+                </tr>
+                {% for exp in avg_exp_needed %}
+                <tr>
+                    {% for ex in exp %}
+                        <td>{{ ex }}</td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    
+        </body>
+</html>

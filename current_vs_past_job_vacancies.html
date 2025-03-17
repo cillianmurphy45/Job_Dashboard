@@ -1,0 +1,108 @@
+<html>
+    <title>
+        Current vs Past Job Vacancies Data
+    </title>
+    <script src="https://mpld3.github.io/js/mpld3.v0.5.8.min.js"></script>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <body>
+
+        <div class="container-fluid" style="background-color: black;">
+            <h1 class="text-center" style="color: white;">
+                {{title}}
+            </h1>
+        </div>
+        <div class="container-fluid">
+            <nav class="navbar navbar-expand-lg bg-body-tertiary">
+              <div class="container-fluid text-center" style="background-color: black;">
+                <a class="navbar-brand" href="http://127.0.0.1:5000/home_page">Home</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/current_job_vacancies_data">Current Job Vacancies Data</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/current_vs_past_job_vacancies">Current vs Past Job Vacancies Data</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/data_analyst_skills_data">Skills Data</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/data_analyst_experience_data">Experience Data</a>
+              </div>
+            </nav>
+        </div>
+
+        <div class="container-fluid" style="background-color: aliceblue;">
+            <!-- Adding my graphs to the page by using the |safe and the graph variable name -->
+            <h1 class="text-center" style="background-color: rgb(214, 213, 213);">Present vs Past Minimum Salaries</h1>
+            {{c_v_p_min|safe}}
+            <h1 class="text-center" style="background-color: rgb(214, 213, 213);">Present vs Past Median Salaries</h1>
+            {{c_v_p_med|safe}}
+            <h1 class="text-center" style="background-color: rgb(214, 213, 213);">Present vs Past Maximum Salaries</h1>
+            {{c_v_p_max|safe}}
+            <div class="container">
+                <h1 class="text-center">Top 10 most in demand skills in the past</h1>
+                <table class="table table-dark table-striped" style="background-color: rgba(117, 160, 246, 0.24);">
+                    <tr>
+                        {% for header in headers %}
+                        <th>{{header}}</th>
+                        {% endfor %}
+                    </tr>
+                    {% for old_skill in top_10_old_skills %}
+                    <tr>
+                        {% for skills in old_skill %}
+                            <td>{{ skills }}</td>
+                        {% endfor %}
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>  
+            <div class="container">
+                <h1 class="text-center">Top 10 most in demand skills in the present</h1>
+                <table class="table table-dark table-striped" style="background-color: rgba(117, 160, 246, 0.24);">
+                    <tr>
+                        {% for headers in headers2 %}
+                        <th>{{headers}}</th>
+                        {% endfor %}
+                    </tr>
+                    {% for new_skill in top_10_new_skills %}
+                    <tr>
+                        {% for skills in new_skill %}
+                            <td>{{ skills }}</td>
+                        {% endfor %}
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div>  
+            <div class="container">
+                <h1 class="text-center">Current Experience Needs</h1>
+                <table class="table table-dark table-striped" style="background-color: rgba(117, 160, 246, 0.24);">
+                    <tr>
+                        {% for headers in headers3 %}
+                        <th>{{headers}}</th>
+                        {% endfor %}
+                    </tr>
+                    {% for new_exp in current_experience_needed %}
+                    <tr>
+                        {% for n_exp in new_exp %}
+                            <td>{{ n_exp }}</td>
+                        {% endfor %}
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div> 
+            <div class="container">
+                <h1 class="text-center">Past Experience Needs</h1>
+                <table class="table table-dark table-striped" style="background-color: rgba(117, 160, 246, 0.24);">
+                    <tr>
+                        {% for headers in headers4 %}
+                        <th>{{headers}}</th>
+                        {% endfor %}
+                    </tr>
+                    {% for old_exp in old_experience_needed %}
+                    <tr>
+                        {% for o_exp in old_exp %}
+                            <td>{{ o_exp }}</td>
+                        {% endfor %}
+                    </tr>
+                    {% endfor %}
+                </table>
+            </div> 
+        </div>
+
+        
+    
+         </body>
+</html>

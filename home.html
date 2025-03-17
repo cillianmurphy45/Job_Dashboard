@@ -1,0 +1,49 @@
+<html>
+    <head>
+        <!-- Creating Title of Webpage and importing bootstrap -->
+        <title>Data Analyst Job Dashboard</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    </head>
+    <body>
+        <!-- Adding the header to the top of the page -->
+        <div class="container-fluid" style="background-color: black;">
+            <h1 class="text-center" style="color: white;">
+                {{title}}
+            </h1>
+        </div>
+        <!-- Adding a navigation bar and creating links for each page for easy navigation between pages -->
+        <div class="container-fluid">
+            <nav class="navbar navbar-expand-lg bg-body-tertiary">
+              <div class="container-fluid text-center" style="background-color: black;">
+                <a class="navbar-brand" href="http://127.0.0.1:5000/home_page">Home</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/current_job_vacancies_data">Current Job Vacancies Data</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/current_vs_past_job_vacancies">Current vs Past Job Vacancies Data</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/data_analyst_skills_data">Skills Data</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/data_analyst_experience_data">Experience Data</a>
+              </div>
+            </nav>
+        </div>
+        <!-- Adding a no. of job listings info -->
+              <div class="container" style="background-color: aliceblue;">
+                <h2 class="text-center">Number of current job listings: {{no_listings}}</h2>
+              </div>
+              <!-- Creating a table by looping through the headers to add to each column, then using a nested for loop to get all of the data within the columns -->
+        <div class="container-fluid">
+            <table class="table table-dark table-striped" style="background-color: aliceblue">
+                <tr>
+                    {% for header in headers %}
+                    <th>{{header}}</th>
+                    {% endfor %}
+                </tr>
+                {% for jo in jobs %}
+                <tr>
+                    {% for j in jo %}
+                        <td>{{ j }}</td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    </body>
+
+ </html>

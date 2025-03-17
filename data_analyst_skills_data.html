@@ -1,0 +1,59 @@
+<html>
+    <title>
+        Data Analyst Skills Data
+    </title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <body>
+        <div class="container-fluid" style="background-color: black;">
+            <h1 class="text-center" style="color: white;">
+                {{title}}
+            </h1>
+        </div>
+        <div class="container-fluid">
+            <nav class="navbar navbar-expand-lg bg-body-tertiary">
+              <div class="container-fluid text-center" style="background-color: black;">
+                <a class="navbar-brand" href="http://127.0.0.1:5000/home_page">Home</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/current_job_vacancies_data">Current Job Vacancies Data</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/current_vs_past_job_vacancies">Current vs Past Job Vacancies Data</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/data_analyst_skills_data">Skills Data</a>
+                <a class="navbar-brand" href="http://127.0.0.1:5000/data_analyst_experience_data">Experience Data</a>
+              </div>
+            </nav>
+        </div>
+        <div class="container">
+            <h1 class="text-center">Top 20 Highest Paying skills</h1>
+            <table class="table table-dark table-striped" style="background-color: rgba(117, 160, 246, 0.24);">
+                <tr>
+                    {% for header in headers5 %}
+                    <th>{{header}}</th>
+                    {% endfor %}
+                </tr>
+                {% for sk_pay in top_20_skills %}
+                <tr>
+                    {% for s_pay in sk_pay %}
+                        <td>{{ s_pay }}</td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+        <div class="container">
+            <h1 class="text-center">How many skills are companies looking for</h1>
+            <table class="table table-dark table-striped" style="background-color: rgba(117, 160, 246, 0.24);">
+                <tr>
+                    {% for header in headers6 %}
+                    <th>{{header}}</th>
+                    {% endfor %}
+                </tr>
+                {% for sk_pay in company_skills %}
+                <tr>
+                    {% for s_pay in sk_pay %}
+                        <td>{{ s_pay }}</td>
+                    {% endfor %}
+                </tr>
+                {% endfor %}
+            </table>
+        </div>
+    
+    </body>
+</html>
