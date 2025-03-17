@@ -1,0 +1,2081 @@
+,skills
+0,Gen AI
+1,metadata
+1,Excel
+2,Data Analyst
+2,Python
+2,Sql
+3,snowflake
+3,Data Analyst
+3,Denodo
+3,Uat
+3,Tableau
+3,Oracle Pl/sql
+4,snowflake
+4,Data Analyst
+4,User Acceptance Testing
+4,Denodo
+4,Oracle PL/SQL
+4,Tableau
+5,Python
+6,dmp
+7,Python Scripting
+7,Sql
+8,Data Analyst
+8,Business Analytics
+8,Business Administration
+8,Power Bi
+9,R
+9,Powerbi
+9,Tableau
+9,Sql
+9,Python
+10,Data Analysis
+10,technical functional documentation
+10,snowflake
+10,Quality Checks
+10,Oracle Pl Sql
+10,data reconciliation
+10,Tableau
+11,Hive SQL
+11,R
+11,Looker
+11,Sklearn
+11,Tensorflow
+11,Numpy
+11,Pandas
+11,Tableau
+11,Sql
+11,Python
+12,PDPA
+12,basel iii
+12,Nosql
+12,Gdpr
+12,Power Bi
+12,MySQL
+12,SQL Server
+12,Data Visualization
+12,Sql
+13,Word
+13,Data Mapping
+13,Powerpoint
+13,Data Profiling
+13,Microsoft Office
+13,Excel
+13,Itil
+14,engineering principles
+14,Robotics
+14,Automations
+14,Autonomous Systems
+14,Ai
+14,project management tools
+14,Ml
+14,Iot
+15,investment data domain knowledge
+15,Data Analysis
+15,snowflake
+15,documentation support
+15,Quality Checks
+15,Oracle Pl Sql
+15,data reconciliation
+15,Uat
+15,Tableau
+16,engineering principles
+16,Robotics
+16,Automations
+16,Autonomous Systems
+16,Ai
+16,project management tools
+16,Ml
+16,Iot
+17,PDPA
+17,basel iii
+17,Nosql
+17,Gdpr
+17,Power Bi
+17,MySQL
+17,SQL Server
+17,Data Visualization
+17,Sql
+18,Word
+18,Data Mapping
+18,Powerpoint
+18,Data Profiling
+18,Microsoft Office
+18,Excel
+18,Itil
+19,Tableau
+19,Excel
+19,Sql
+20,data governance principles
+20,Airflow
+20,data pipelines
+20,data management tools
+20,R
+20,dbt
+20,dashboard software
+20,Looker Studio
+20,data privacy regulations
+20,Power Bi
+20,Data Cleaning
+20,Tableau
+20,Sql
+20,google drive
+20,Data Visualization
+20,Python
+21,Novacura Flow
+21,AVEVA Pi Vision
+21,AVEVA Work Tasks
+21,UOC
+21,Microsoft Power Bi
+21,Databricks
+21,Dax
+21,Python
+21,Sql
+22,Implementation monitoring
+22,Quality Checks
+22,Data Issue Management
+22,Investment Data domain knowledge
+22,Troubleshooting
+22,snowflake
+22,Data Analysis
+22,Denodo
+22,Uat
+22,Tableau
+22,Oracle Pl Sql
+22,data reconciliation
+23,dbt
+23,Looker
+23,Python
+23,Sql
+24,dimensional modelling
+24,R
+24,Alteryx
+24,Power Bi
+24,Azure Synapse analytics
+24,Azure Databricks
+24,Data Analytics
+24,Azure Cloud
+24,Azure Machine learning
+24,Spark
+24,Python
+24,Azure Devops
+25,Statistical Modeling
+25,Statistical Analysis
+25,Data Integration
+26,R
+26,Numpy
+26,Pandas
+26,Power Bi
+26,Tableau
+26,Python
+26,Sql
+27,Data Analysis
+27,algorithmic programming methods
+27,Python
+28,statistical analysis techniques
+28,HRMS systems
+28,R
+28,Data Extraction
+28,Advanced Excel
+28,Python
+29,Microsoft Power Platform
+29,Sharepoint
+29,cloud platforms
+29,MS SQL
+29,Powerbi
+29,Knime
+29,Python
+30,R
+30,ERP systems
+30,SAP
+30,Power Bi
+30,Tableau
+30,Oracle
+30,Microsoft Excel
+30,Sql
+30,Python
+31,Data Strategy
+31,Martech
+31,Analytics
+32,Microsoft Power Platform
+32,Sharepoint
+32,cloud platforms
+32,MS SQL
+32,Powerbi
+32,Knime
+32,Python
+33,Microsoft Fabric
+33,Power Bi
+33,Python
+34,logical data models
+34,data dictionaries
+34,Data Management
+34,Reporting Tools
+35,Tableau
+35,Python
+35,Sql
+36,Data Analysis
+36,R
+36,Power Bi
+36,Data Visualization
+36,Tableau
+36,Microsoft Excel
+36,Sql
+36,Python
+37,Airflow
+37,Plotly
+37,Interactive visualisations
+37,Dash
+37,Dashboard frameworks
+37,BigQuery
+37,Text Mining
+37,Sql
+37,Nlp
+37,Shell scripting
+37,Etl Tools
+37,Python
+38,Microsoft Fabric
+38,Power Bi
+38,Python
+39,Data Analysis
+39,reporting systems
+39,Programming Knowledge
+39,SAS
+39,Sql
+40,Nosql
+40,Power Bi
+40,MySQL
+40,SQL Server
+40,Data Visualization
+40,Sql
+41,investment data domain knowledge
+41,Data Analysis
+41,snowflake
+41,documentation support
+41,Quality Checks
+41,Oracle Pl Sql
+41,data reconciliation
+41,Uat
+41,Tableau
+42,R
+42,Power Bi
+42,Tableau
+42,Excel
+42,Python
+42,Sql
+43,AI tools
+43,dbt
+43,Apache Superset
+43,Gcp
+43,Redshift
+43,Sql
+43,AWS
+44,Statistical methods
+44,Data visualization techniques
+44,Business Intelligence Tools
+44,Python
+45,AI tools
+45,dbt
+45,Apache Superset
+45,Gcp
+45,Redshift
+45,Sql
+45,AWS
+46,Policy
+46,referrals
+46,Social Media
+46,Ability To Work Independently
+46,enforcement
+46,Communication Skills
+46,Written English
+46,Critical Thinking
+46,Customer Experience
+46,Data Analysis
+46,Inventory
+46,social media strategy
+47,DRM Implementation and Management using Tivoli Storage Manager
+47,Veritas Netbackup BAU operations for VM backup and recovery
+47,IBM Spectrum Protect
+47,LTO Tape Drives
+47,NDMP Backup using IBM Tivoli Storage Manager
+47,TSM Server and Client Options
+47,IBM Tivoli Storage Manager for VMware
+47,IBM Tivoli Storage Manager Server
+47,Networking
+47,Tape Libraries
+47,Windows
+47,UNIX
+47,DB2
+48,statistical methods
+48,Power Bi
+48,data mining
+48,Data Visualization
+48,Data Cleaning
+48,Machine Learning Algorithms
+49,CRM Tools
+49,Data Analysis
+49,Data Management
+49,google sheets
+49,Hubspot
+49,Microsoft Excel
+50,Feature engineering
+50,Analytics
+50,Power Bi
+50,Pyspark
+50,Data Integration
+50,Data Cleaning
+50,Microsoft Azure
+50,Microsoft BI
+51,Search and recommendations engines
+51,Tableau
+51,Sql
+51,Python
+52,Data Analysis
+52,logical data models
+52,data dictionaries
+52,Data Management
+52,Reporting Tools
+53,dashboard designing
+53,Tableau
+54,Data Services
+54,Sql
+55,Looker
+55,Tableau
+56,AI tools
+56,dbt
+56,Apache Superset
+56,Gcp
+56,Redshift
+56,Sql
+56,AWS
+57,Powerapps
+57,Python
+57,Sql
+58,Microsoft Office
+58,Data Analytics
+59,data accuracy
+59,Data Analysis
+59,data analysis scripts
+59,sampling methodologies
+59,data sampling
+59,Programming Languages
+60,Power Bi
+60,Microsoft Office
+60,Sql
+61,Google Data Studio
+61,Tableau
+61,Sql
+62,QlikSense Data Load Editor
+62,MS SQL
+62,MySQL
+62,PostgreSQL
+62,Qliksense
+62,Python
+63,Data Security
+63,Power Bi
+63,Etl Development
+63,Qlik
+63,Data Governance
+63,Data Warehousing
+63,Sql
+64,Analytical Methods
+64,BI visualization tools
+64,Power Bi
+64,Tableau
+64,Data Analytics
+64,Sql
+65,DRM Implementation and Management using Tivoli Storage Manager
+65,IBM Spectrum Protect
+65,NDMP Backup using IBM Tivoli Storage Manager
+65,LTO Tape Drives
+65,TSM Server and Client Options
+65,IBM Tivoli Storage Manager for VMware
+65,IBM Tivoli Storage Manager Server
+65,Networking
+65,Veritas Netbackup
+65,Tape Libraries
+65,Windows
+65,UNIX
+65,DB2
+66,Alteryx
+66,Tableau
+66,Databricks
+66,Sql
+67,R
+67,data manipulation and analysis libraries
+67,Powerbi
+67,PowerShell
+67,Microsoft
+67,Sql
+67,Python
+68,Power Bi
+68,Vba
+68,Excel
+68,Sql
+68,Python
+69,Data Analysis
+69,logical data models
+69,data analysis methods
+69,Documentation
+69,data dictionaries
+69,data structures
+70,scorecard migration
+70,qualitative data analysis
+70,SC Migration
+70,exception review report
+70,ECDD CRRD CDD reviews
+70,Early Alert review
+70,re-rating Stales Overrides
+70,DMP DRP Report
+70,S35 Tagging
+71,GANs
+71,VAEs
+71,Transformers
+71,R
+71,generative AI models
+71,Power Bi
+71,Tableau
+71,Sql
+71,Python
+71,Machine Learning Algorithms
+72,dashboard designing
+72,Tableau
+73,Relational Databases
+73,DataLake
+73,Data Governance Tool
+73,Looker
+73,Bi Tools
+73,BigQuery
+73,Collibra
+73,Javascript
+73,Python
+73,Google Cloud
+74,Tableau
+74,Sql
+74,Python
+75,Planisware Project System
+75,Data Visualization tools
+75,Power Bi
+75,Microsoft Office
+75,Python
+75,Sql
+76,Data Collection
+76,Reporting
+77,Analytical Skills
+77,Data pipelines
+77,Business Intelligence
+78,Word
+78,R
+78,Powerpoint
+78,Ms Excel
+78,Javascript
+78,Python
+78,Sql
+79,R
+79,data manipulation and analysis libraries
+79,Power Bi
+79,PowerShell
+79,Python
+79,Sql
+80,Power Bi
+80,Ansible
+80,Tableau
+80,SSIS
+80,Mssql
+80,Qliksense
+80,Sql
+80,Aws S3
+81,SDLC methodology
+81,snowflake
+81,DeltaLake
+81,Kanban
+81,OLTP Data Lake
+81,Lakehouse technologies
+81,S3
+81,Data Factory
+81,PostgreSQL
+81,AWS Glue
+81,Tableau
+81,Informatica
+81,JIRA
+81,Confluence
+81,Javascript
+81,Scrum
+81,Python
+81,Agile Methodologies
+81,Scala
+81,Bash
+81,Redshift
+81,Sql
+81,DataBricks
+81,MS SQL
+81,Powerbi
+81,Xml
+81,Etl
+82,data visualization tools
+82,Seaborn
+82,geospatial analysis
+82,Power Bi
+82,Matplotlib
+82,Data Cleaning
+82,Tableau
+83,data analysis tools
+83,reporting tool integration
+83,data warehousing principles
+83,Power Bi
+83,Tableau
+83,Excel
+83,Sql
+84,Sql
+84,Python
+85,health economics
+85,R
+85,Stata
+85,Statistics
+85,Data Science
+85,SAS
+85,Tableau
+85,Data Analytics
+85,Python
+86,Data Quality
+86,Data Profiling
+86,Data Governance
+86,Sql
+86,Python
+87,Stata
+87,Spss
+88,Policy
+88,referrals
+88,Social Media
+88,Ability To Work Independently
+88,enforcement
+88,Communication Skills
+88,Written English
+88,Critical Thinking
+88,Customer Experience
+88,Data Analysis
+88,Inventory
+88,social media strategy
+89,Product Management
+89,Public Health
+89,Segmentation
+89,population health
+89,Life Sciences
+89,Healthcare
+89,Mathematics
+89,Statistics
+89,Program Management
+89,Strategic Planning
+90,DRM Implementation and Management using Tivoli Storage Manager
+90,Veritas Netbackup BAU operations for VM backup and recovery
+90,IBM Spectrum Protect
+90,LTO Tape Drives
+90,NDMP Backup using IBM Tivoli Storage Manager
+90,TSM Server and Client Options
+90,IBM Tivoli Storage Manager for VMware
+90,IBM Tivoli Storage Manager Server
+90,Networking
+90,Tape Libraries
+90,Windows
+90,UNIX
+90,DB2
+91,Microsoft O360 Suite
+91,data visualisation tools
+91,Uat
+91,Data Governance
+91,Sql
+92,GenAI
+92,Data Analysis
+92,Machine Learning
+92,Sql
+92,Agile Methodology
+92,Python
+93,Airflow
+93,Statistical Knowledge
+93,Orchestration
+93,Data Modeling
+93,Power Bi
+93,Dynamodb
+93,OLAP
+93,Big Data
+93,Tableau
+93,Sql
+93,Data Quality
+93,Databases
+93,Powerbi
+93,MySQL
+93,Data Visualization
+93,Data Governance
+93,Azure
+93,Data Analytics
+93,Python
+93,Etl
+94,Data Services
+94,Sql
+95,dashboard designing
+95,Tableau
+96,Pivots
+96,Looker Studio
+96,GA4
+96,livestream analytics
+96,Vlookup
+96,Data Visualization
+96,Microsoft Office
+96,Tableau
+96,Excel
+96,Adobe Analytics
+97,visualization tools
+97,Data Analytics
+97,Microsoft Office
+98,Microsoft Power Automated
+98,Power Bi
+98,Excel
+98,Api Integration
+98,Sql
+98,Etl
+99,ETL processes
+99,Power Bi
+99,microsoft power automate
+99,Excel
+99,Api Integration
+99,Sql
+100,CRM Tools
+100,Data Analysis
+100,Data Management
+100,google sheets
+100,Hubspot
+100,Microsoft Excel
+101,Search and recommendations engines
+101,Tableau
+101,Sql
+101,Python
+102,Data Analysis
+102,logical data models
+102,data dictionaries
+102,Data Management
+102,Reporting Tools
+103,Feature engineering
+103,Analytics
+103,Power Bi
+103,Pyspark
+103,Data Integration
+103,Data Cleaning
+103,Microsoft Azure
+103,Microsoft BI
+104,Looker
+104,Tableau
+105,Data Collection
+105,Reporting
+106,Analytical Skills
+106,Data pipelines
+106,Business Intelligence
+107,data analysis tools
+107,Data Cleaning
+107,Data Visualization
+108,Machine learning techniques
+108,Statistical methods
+108,Power Bi
+108,Data Visualization
+108,Tableau
+108,Etl Process
+108,Python
+108,Sql
+109,strategic insights
+109,Sql
+110,Data analysis tools such as Excel
+110,Problem-solving
+110,Process improvements and innovation
+110,Statistical Analysis
+111,R
+111,Data Entry
+111,Data Cleaning
+111,Power Bi
+111,Excel
+111,Statistical Analysis
+111,Sql
+111,Python
+112,BI Tableau
+112,Data Management
+112,Spark
+112,Data Governance
+112,Python
+112,Sql
+113,Machine learning techniques
+113,Statistical methods
+113,Power Bi
+113,Data Visualization
+113,Tableau
+113,Etl Process
+113,Sql
+113,Python
+114,R
+114,data manipulation and analysis libraries
+114,Power Bi
+114,PowerShell
+114,Python
+114,Sql
+115,Power Bi
+115,Ansible
+115,Tableau
+115,SSIS
+115,Mssql
+115,Qliksense
+115,Sql
+115,Aws S3
+116,SDLC methodology
+116,snowflake
+116,DeltaLake
+116,Kanban
+116,OLTP Data Lake
+116,Lakehouse technologies
+116,S3
+116,Data Factory
+116,PostgreSQL
+116,AWS Glue
+116,Tableau
+116,Informatica
+116,JIRA
+116,Confluence
+116,Javascript
+116,Scrum
+116,Python
+116,Agile Methodologies
+116,Scala
+116,Bash
+116,Redshift
+116,Sql
+116,DataBricks
+116,MS SQL
+116,Powerbi
+116,Xml
+116,Etl
+117,Word
+117,R
+117,Powerpoint
+117,Ms Excel
+117,Javascript
+117,Python
+117,Sql
+118,Apis
+118,Power Bi
+118,Excel
+118,Sql
+118,Etl
+119,Power Bi
+119,microsoft power automate
+119,Excel
+119,Api Integration
+119,Sql
+120,data analysis tools
+120,reporting tool integration
+120,data warehousing principles
+120,Power Bi
+120,Tableau
+120,Excel
+120,Sql
+121,Sql
+121,Python
+122,Data Quality
+122,Data Profiling
+122,Data Governance
+122,Sql
+122,Python
+123,Analytical SQL Functions
+123,Data Visualization Tools
+123,Pandas
+123,Power Bi
+123,Tableau
+123,Sql
+123,Python
+124,Apis
+124,Power Bi
+124,Excel
+124,Sql
+124,Etl
+125,Tableau
+125,Python
+125,Sql
+126,metadata
+126,Data Analyst
+126,Data Governance
+127,Business Data Analyst
+127,Excel Macro
+127,Python
+128,R
+128,Sql
+128,Python
+129,Robotics
+129,Autonomous Systems
+129,digital manufacturing
+129,Automations
+129,Ai
+129,Engineering Principles
+129,Project Management Tools
+129,Ml
+129,Iot
+130,Qlikview
+130,Tableau
+130,Python
+130,Sql
+131,analytics support
+131,experimentation frameworks
+131,Data Strategy
+131,Data Analytics
+131,Predictive Analytics
+132,Power Bi
+132,Vba
+132,Excel
+132,Sql
+132,Python
+133,Business Analysis
+133,snowflake
+133,Denodo
+133,Data Management
+133,Tableau
+133,Data Analytics
+133,Informatica
+133,Oracle
+133,Python
+134,Powerpoint
+134,Data Analysis
+134,Microsoft Office Suite
+134,Power Bi
+134,Excel
+134,Python
+134,Sql
+135,Business Analysis
+135,Data Management
+135,Data Analytics
+135,Python
+136,econometrics techniques
+136,R
+136,data science techniques
+136,Stata
+136,Python
+137,Microsoft Power Platform
+137,Sharepoint
+137,cloud platforms
+137,MS SQL
+137,Powerbi
+137,Knime
+137,Python
+138,Data exploitation
+138,Data Strategy
+138,Regulatory Requirements
+138,data sharing
+138,Data Management
+139,Stakeholder Engagement
+139,Data Governance Framework Development
+139,Data Quality Management
+139,Regulatory Compliance
+139,Tools and techniques of data governance
+139,Risk Management
+140,Hadoop
+140,Vba
+140,Spark
+140,Sql
+140,Python
+141,R
+141,Microstrategy
+141,Oracle Db
+141,Power Bi
+141,PostgreSQL
+141,Mssql
+141,Python
+142,Bloomberg
+142,API data
+142,Powerbi
+142,Tableau
+143,R
+143,Looker
+143,ETL pipelines
+143,Power Bi
+143,MySQL
+143,Data Warehouse Architecture
+143,Tableau
+143,Python
+143,Google Cloud
+143,Sql
+143,AWS
+144,Advanced Excel functions
+144,Python coding
+144,Data cleansing and normalization
+144,Power Bi
+144,Data Visualization
+144,Data Architecture
+144,Sql Programming
+144,Tableau
+144,Data Analytics
+145,data protection regulations
+145,data visualization tools
+145,Data Governance
+146,R
+146,Statistical Modeling
+146,Deep Learning
+146,Java
+146,Machine Learning
+146,Hadoop
+146,Spark
+146,Python
+146,HTML
+147,ChatGPT
+147,Amazon Q
+147,dbt
+147,AI technologies
+147,Apache Superset
+147,Redshift
+147,Sql
+148,Scikit-Learn
+148,R
+148,Xceptor
+148,Unqork
+148,Business Intelligence
+148,Alteryx
+148,Artificial Intelligence
+148,Ms Sql Server
+148,Tableau
+148,Nltk
+148,Pandas
+148,Elasticsearch
+148,Qlik
+148,Data Visualization
+148,Python
+148,Appian
+149,Shiny
+149,R
+149,Sharepoint
+149,Java
+149,Sql
+149,HTML
+149,Django
+149,Visual Basic
+149,Flask
+149,Xml
+149,Excel
+149,Python
+150,Sql
+150,Python
+151,Power Bi
+151,Tableau
+151,Excel
+151,Python
+151,Sql
+152,data analysis automation
+152,Power Bi
+152,Pl Sql
+152,Excel
+152,Mssql
+152,Sql
+153,Data evaluation
+153,Data visualization tools
+153,Analytics skills
+153,Data Visualization
+153,Excel
+153,Sql
+154,Analytical Skills
+154,Pipelines
+154,metadata
+154,Business Intelligence
+154,data engineering
+154,Data Management
+154,Uat
+154,Tableau
+154,Informatica
+154,Data Integration
+154,Sql
+154,Databases
+154,Javascript
+154,Data Visualization
+154,Data Analytics
+154,Python
+155,Technical operations capacity
+155,Querying databases with SQL
+155,Data manipulation using Excel
+155,Digital rights management products
+156,Machine Learning
+156,data mining
+156,Sql
+156,Python
+157,R
+157,Plotly
+157,statistical software
+157,Scikit-Learn
+157,Numpy
+157,Scipy
+157,Pandas
+157,Tableau
+157,Python
+157,AWS
+158,Druid
+158,Google Data Studio
+158,data access tools
+158,Lumos
+158,statistical methods
+158,Time Series Analysis
+159,Big Data platforms
+159,R
+159,Metadata tools
+159,Bi Tools
+159,Power Bi
+159,Microsoft Office
+159,Tableau
+159,Data Warehousing
+159,Sql
+159,Python
+160,Power Bi
+160,Tableau
+160,Excel
+160,Python
+160,Sql
+161,R
+161,Looker Studio
+161,statistical methods
+161,Power Bi
+161,Tableau
+161,Sql
+161,Python
+162,R
+162,Power Bi
+162,Tableau
+162,Sql
+162,Python
+163,Looker
+163,Hive
+163,Hadoop
+163,Spark
+163,Etl Tools
+163,Tableau
+163,Sql
+163,Python
+164,Data Analysis
+164,Data Management
+164,Python
+164,Sql
+165,Crystal Reports
+165,Dataiku
+165,snowflake
+165,Fix Protocol
+165,PowerShell
+165,Power Platform
+165,Tableau
+165,Autosys
+165,UNIX
+165,Sql
+165,Appdynamics
+165,Shell
+165,Linux
+165,Perl
+165,Vba
+165,Splunk
+165,Excel
+165,Python
+166,Power Bi
+166,Tableau
+166,Python
+166,Sql
+167,AWS cloud services
+167,Python
+167,Sql
+167,Hadoop
+167,Kafka
+167,Spark
+168,Actuarial knowledge
+168,Data analysis automation
+168,Power Bi
+168,Data Visualization
+168,Vba
+168,Data Transformation
+168,Data Analytics
+168,Python
+168,Sql
+169,Business Intelligence
+169,Tableau
+169,Data Analytics
+169,Sql
+169,Python
+170,Google Cloud Platform
+170,Bi Reporting Tools
+171,R
+171,Power Bi
+171,Tableau
+171,Microsoft Excel
+171,Python
+171,Sql
+172,Project Management
+172,Data Analysis
+172,Data Management
+172,Spark
+172,Agile Development Methodologies
+172,Data Governance
+172,Python
+172,Sql
+173,Macros
+173,Microsoft Excel
+174,Alteryx
+174,Vba
+174,Microsoft Excel
+174,Sql
+174,Python
+175,R
+175,Power Bi
+175,Tableau
+175,Microsoft Excel
+175,Python
+175,Sql
+176,Power Bi
+176,Tableau
+176,Msbi
+176,Azure
+176,Sql
+176,AWS
+177,CFT
+177,R
+177,Aml
+177,Machine Learning
+177,Powerbi
+177,Qlik
+177,Tableau
+177,Sql
+178,Machine Learning
+178,Powerbi
+178,Qlik
+178,Tableau
+178,Python
+178,Sql
+179,OAS
+179,R
+179,MS Access
+179,UiPath RPA
+179,Ms Excel
+179,Qlik Sense
+179,Power Bi
+179,Sql Query
+179,SAS
+179,Tableau
+179,OBIEE
+179,Qlikview
+179,Python
+180,Analytical Skills
+180,Pipelines
+180,metadata
+180,Business Intelligence
+180,data engineering
+180,Data Management
+180,Uat
+180,Tableau
+180,Informatica
+180,Data Integration
+180,Sql
+180,Databases
+180,Javascript
+180,Data Visualization
+180,Data Analytics
+180,Python
+181,Big Data platforms
+181,R
+181,Metadata tools
+181,Bi Tools
+181,Power Bi
+181,Microsoft Office
+181,Tableau
+181,Data Warehousing
+181,Sql
+181,Python
+182,Power Bi
+182,Tableau
+182,Excel
+182,Python
+182,Sql
+183,R
+183,Looker Studio
+183,statistical methods
+183,Power Bi
+183,Tableau
+183,Sql
+183,Python
+184,Microsoft Power Platform
+184,Sharepoint
+184,cloud platforms
+184,MS SQL
+184,Powerbi
+184,Knime
+184,Python
+185,R
+185,Power Bi
+185,Tableau
+185,Sql
+185,Python
+186,Looker
+186,Hive
+186,Hadoop
+186,Spark
+186,Etl Tools
+186,Tableau
+186,Sql
+186,Python
+187,Crystal Reports
+187,Dataiku
+187,snowflake
+187,Fix Protocol
+187,PowerShell
+187,Power Platform
+187,Tableau
+187,Autosys
+187,UNIX
+187,Sql
+187,Appdynamics
+187,Shell
+187,Linux
+187,Perl
+187,Vba
+187,Splunk
+187,Excel
+187,Python
+188,Actuarial knowledge
+188,Data analysis automation
+188,Power Bi
+188,Data Visualization
+188,Vba
+188,Data Transformation
+188,Data Analytics
+188,Python
+188,Sql
+189,Bloomberg
+189,API data
+189,Powerbi
+189,Tableau
+190,data engineering
+190,Unit Testing
+190,Machine Learning Algorithms
+190,Data Analytics
+190,Python
+191,Compliance
+191,Data Analysis
+191,Treasury Products
+191,process improvement
+191,commercial banking products
+191,Communication Skills
+191,Data Management
+191,Data Quality
+191,Data Analytics
+191,Data Governance
+192,Metabase
+192,BigQuery
+192,Tableau
+192,Sql
+193,Data Automation
+193,Segmentation Techniques
+193,data models
+193,Large Language Models
+193,Power Bi
+193,Data Mining
+193,Xml
+193,Sql
+193,Etl
+193,Database Design
+194,segmentation techniques
+194,AI applications
+194,Looker Studios
+194,Data Modelling
+194,google sheets
+194,PostgreSQL
+194,data mining
+194,Database Design
+194,Hubspot
+194,Sql
+195,R
+195,Pyspark
+195,PowerShell
+195,Apache Spark
+195,Tableau
+195,Sql
+195,Git
+195,Javascript
+195,Powerbi
+195,Zoho
+195,Microsoft Excel
+195,Python
+196,De-identification
+196,Shiny
+196,Data Storage
+196,Data anonymization
+196,Ai
+196,Re-identification
+196,Statistical Modeling
+196,R
+196,Sharepoint
+196,Java
+196,Ml
+196,HTML
+196,Sql
+196,Django
+196,Visual Basic
+196,Machine Learning
+196,Xml
+196,Flask
+196,Excel
+196,Python
+197,Shiny
+197,R
+197,Sharepoint
+197,Java
+197,HTML
+197,Sql
+197,Django
+197,Visual Basic
+197,Flask
+197,Xml
+197,Excel
+197,Python
+198,Word
+198,Powerpoint
+198,DFP
+198,Project Management
+198,adsense
+198,Account Management
+198,Data Analysis
+198,Ad Operations
+198,AdMob
+198,Microsoft Office Suite
+198,Sql
+198,adx
+198,Excel
+199,Data Pipelines
+199,Data Democratisation
+199,Prescriptive Analytics
+199,Business Intelligence
+199,data engineering
+199,Data Analytics
+200,IT policy
+200,cybersecurity principles
+200,Analytic tools
+200,It Audit
+200,Ms Power Bi
+200,Power Automate
+200,it risk management
+200,Information Security
+200,It Compliance
+201,R
+201,Power Bi
+201,Tableau
+201,Python
+201,Sql
+202,Basic to intermediate SQL knowledge
+202,Advanced Python knowledge
+203,Data Automation
+203,Segmentation Techniques
+203,data models
+203,Large Language Models
+203,Power Bi
+203,Data Mining
+203,Xml
+203,Sql
+203,Etl
+203,Database Design
+204,Metabase
+204,BigQuery
+204,Tableau
+204,Sql
+205,segmentation techniques
+205,AI applications
+205,Looker Studios
+205,Data Modelling
+205,google sheets
+205,PostgreSQL
+205,data mining
+205,Database Design
+205,Hubspot
+205,Sql
+206,CFT
+206,R
+206,Aml
+206,Machine Learning
+206,Powerbi
+206,Qlik
+206,Tableau
+206,Sql
+207,Machine Learning
+207,Powerbi
+207,Qlik
+207,Tableau
+207,Python
+207,Sql
+208,OAS
+208,R
+208,MS Access
+208,UiPath RPA
+208,Ms Excel
+208,Qlik Sense
+208,Power Bi
+208,Sql Query
+208,SAS
+208,Tableau
+208,OBIEE
+208,Qlikview
+208,Python
+209,R
+209,Data Mining techniques
+209,Pl Sql
+209,Python
+209,Sql
+210,Powerbi
+210,Tableau
+210,Excel
+210,Sql
+211,Powerbi
+211,Tableau
+211,Excel
+211,Data Modelling
+211,Sql
+211,Python
+211,ELT
+211,Etl
+212,Dimensional modelling
+212,R
+212,Alteryx
+212,Power Bi
+212,Azure Synapse analytics
+212,Azure Databricks
+212,Data Analytics
+212,Azure Cloud
+212,Azure Machine learning
+212,Spark
+212,Python
+212,Azure Devops
+213,Big Query
+213,Looker Studio
+213,Google Docs
+213,google sheets
+213,Tableau
+214,Java
+214,Golang
+214,Hive
+214,Spark
+214,Sql
+215,Building statistical ML models
+215,Statistical machine learning
+215,Unit regression testing
+215,Pyspark
+215,Data Cleaning
+215,Databricks
+215,Sql
+215,Python
+216,Precisely
+216,data governance tools
+216,Collibra
+216,Excel
+216,Informatica
+217,data statistics
+217,Scripting Language
+217,Excel
+217,Python
+217,Sql
+218,Data Analysis
+218,R
+218,data statistics
+218,Python
+218,Sql
+219,Hive
+219,Hadoop
+219,Sql
+220,R
+220,Data Mining techniques
+220,Pl Sql
+220,Python
+220,Sql
+221,Modeling
+221,R
+221,ab testing
+221,Optimization
+221,advanced measurement
+221,causal inference
+221,Python
+221,Sql
+222,Business Intelligence
+222,Analytics
+222,data engineering
+222,Data Analytics
+222,Python
+222,Sql
+223,Statistical Knowledge
+223,Data storytelling
+223,Hadoop
+223,Spark
+223,Sql
+223,Python
+224,RAG Retrieval-Augmented Generation tools
+224,Plotly
+224,Scikit-Learn
+224,Dash
+224,Scipy
+224,SQL Server
+224,Sql
+224,Numpy
+224,Django
+224,Pandas
+224,Docker
+224,Restful Apis
+224,Kubernetes
+224,Python
+224,AWS
+225,ChatGPT
+225,Amazon Q
+225,dbt
+225,AI technologies
+225,Apache Superset
+225,Redshift
+225,Sql
+226,Looker
+226,Tableau
+226,Google Analytics
+226,Excel
+226,Sql
+227,R
+227,Data Mining techniques
+227,Pl Sql
+227,Python
+227,Sql
+228,Hive
+228,Hadoop
+228,Sql
+229,RAG Retrieval-Augmented Generation tools
+229,clinical AI design
+229,system integration
+229,Docker
+229,SQL Server
+229,Restful Apis
+229,Kubernetes
+229,Sql
+229,AWS
+230,RAG Retrieval-Augmented Generation tools
+230,Plotly
+230,Scikit-Learn
+230,Dash
+230,Scipy
+230,SQL Server
+230,Sql
+230,Numpy
+230,Django
+230,Pandas
+230,Docker
+230,Restful Apis
+230,Kubernetes
+230,Python
+230,AWS
+231,R
+231,Qlik Sense
+231,Machine Learning
+231,Hadoop
+231,Artificial Intelligence
+231,Power Bi
+231,Tableau
+231,Python
+231,Sql
+232,Machine Learning
+232,data mining
+232,Sql
+232,Python
+233,Data Quality
+233,Data Management
+233,Data Migration
+233,Power Bi
+233,Data Governance
+233,Sql
+234,Data Analysis
+234,Powerbi
+234,Sql
+235,Data Mapping
+235,Data Migration
+235,Data Profiling
+235,Itil
+236,Analytical Skills
+236,Pipelines
+236,metadata
+236,Business Intelligence
+236,data engineering
+236,Data Management
+236,Uat
+236,Tableau
+236,Informatica
+236,Data Integration
+236,Sql
+236,Databases
+236,Javascript
+236,Data Visualization
+236,Data Analytics
+236,Python
+237,machine learning techniques
+237,Power Bi
+237,Tableau
+237,Etl Process
+237,Python
+237,Sql
+238,R
+238,Plotly
+238,statistical software
+238,Scikit-Learn
+238,Numpy
+238,Scipy
+238,Pandas
+238,Tableau
+238,Python
+238,AWS
+239,Tableau
+239,Python
+239,Sql
+240,data analysis tools
+240,search and recommendations engines
+240,large language models
+240,Machine Learning
+240,Tableau
+240,Python
+240,Sql
+241,Macros
+241,Power Bi
+241,Tableau
+241,Microsoft Excel
+241,Sql
+241,Python
+242,Data Analysis Tools
+242,Visio
+242,Jupyter Notebook
+242,Microsoft Office Suite
+242,Confluence
+242,Alteryx
+242,Collibra
+242,Tableau
+242,Excel
+242,Python
+242,Sql
+243,legacy system modernization
+243,interactive visualisation dashboards
+243,Design Thinking
+243,application solution design
+243,analytics architecture
+243,feature engineering
+243,Waterfall
+243,Power Bi
+243,Testing
+243,Big Data Technologies
+243,Service Design
+243,Enterprise Architecture
+243,Tableau
+243,Data Manipulation
+243,Data Cleansing
+243,It Business Analysis
+243,Agile
+243,Etl Tools
+243,Data Governance
+243,cloud solutions
+243,Python
+244,Analytical Skills
+244,Experience in content review or a similar environment
+244,Attention To Detail
+244,Critical thinking skills
+244,Ability to independently navigate systems and tools
+245,Data Process Analytics Systems
+245,Power Bi
+245,Microsoft Azure
+245,Data Modelling
+245,Data Warehousing
+245,Dax
+245,Sql
+246,Power Bi
+246,Ansible
+246,Tableau
+246,SSIS
+246,Mssql
+246,Sql
+246,Qliksense
+246,Aws S3
+247,Power Bi
+247,Ansible
+247,Tableau
+247,SSIS
+247,Mssql
+247,Sql
+247,Qliksense
+247,Aws S3
+248,Hl7
+248,Sftp
+248,Dicom
+248,Sql
+249,R
+249,Machine Learning
+249,Google Cloud Platform
+249,Microsoft Power Bi
+249,Data Visualization
+249,Big Data
+249,Python
+249,Sql
+250,actuarial techniques
+250,Pricing Models
+250,technology implementation
+250,Data Analytics
+250,Data Transformation
+251,Power Bi
+251,Ansible
+251,Tableau
+251,Mssql
+251,SSIS
+251,Qliksense
+251,Sql
+251,Aws S3
+252,Qualitative Research
+252,Powerpoint
+252,Microsoft Office
+252,Excel
+253,AI Technologies
+253,AI Frameworks
+253,Business Analysis
+253,data engineering
+253,Data Modeling
+253,Sql
+254,Azure DevOps Services
+254,Analysis Services
+254,Statistical Techniques
+254,Azure Repos
+254,Power Bi
+254,Data Warehouse
+254,Power Query
+254,Sql
+254,Data Lake
+254,Data Analytics
+254,Dax
+254,Etl
+255,R
+255,survey design
+255,Data Cleaning
+255,Microsoft Excel
+256,Data Analysis
+256,Sybase
+256,Tsql
+256,Oracle
+256,Sql
+257,Sap Erp
+257,Data Process Analytics Systems
+257,SalesForce
+257,Requirements Gathering
+257,Microsoft Azure
+257,Data Modelling
+257,Data Warehousing
+257,Dax
+257,Sql
+258,project management
+258,advanced analytics tools
+258,Business Intelligence
+258,Advanced Analytics
+258,Data Warehouse
+258,Data Management
+259,data quality principles
+259,data governance best practices
+259,Python
+259,Sql
+260,snowflake
+260,Microsoft Sql Server
+260,Oracle
+260,Python
+260,Sql
+261,reinforcement learning
+261,Econometric studies
+261,Large language models
+261,Operations Research
+261,Natural experiments
+261,Cluster Analysis
+261,Predictive Analytics
+262,Analytical Skills
+262,Attention To Detail
+262,Critical thinking skills
+262,Experience in content review
+263,BBG
+263,Reuters
+263,ssi
+263,Client Reference Data
+263,Microsoft Excel
+264,Powerpoint
+264,Alteryx
+264,Confluence
+264,Tableau
+264,Jira
+264,Excel
+265,Pmp
+265,SAP implementation methodologies
+265,Cbap
+265,Prince2
+265,Sap Data Migration
+265,Itil
+266,Powerbi
+266,Azure
+266,Sql
+267,Investment Data Domain Knowledge
+267,Data Quality Checks
+267,Documentation Support
+267,data reconciliation
+267,Data Management
+267,Oracle Pl Sql
+268,Power Apps
+268,Git
+268,Data Factory
+268,Power Bi
+268,Databricks
+268,Python
+268,Sql
+268,Azure DevOps
+269,Powerbi
+269,Azure
+269,Sql
+270,Power Apps
+270,Git
+270,Data Factory
+270,Power Bi
+270,Databricks
+270,Python
+270,Sql
+270,Azure DevOps
+271,Investment Data Domain Knowledge
+271,Data Quality Checks
+271,Documentation Support
+271,data reconciliation
+271,Data Management
+271,Oracle Pl Sql
+272,Data Migration
+272,Data Cleansing
+272,Python
+272,Sql
+273,Power Bi
+273,Tableau
+273,Python
+273,Sql
+274,MSSQL Server Management Studio
+274,Data quality principles
+274,Crm Systems
+274,Master Data Management
+274,Data management tools
+274,Sql Queries
+274,Power Bi
+274,Microsoft Sql Server
+274,Data Governance
+274,Excel
+275,Linux
+275,SQL Server
+275,Windows
+275,Python
+275,AWS
+276,Risk management principles
+277,Qualitative Research
+277,Data collection methods
+277,Data Analysis
+277,Quantitative Research
+277,Market research
+277,Interpretation
+277,Data management tools
+277,Report Writing
+277,survey design
+277,BI Visualization tools
+277,Tableau
+277,Sql
+278,modernization of legacy systems
+278,cloud-based solutions
+278,Design Thinking
+278,pre-processing
+278,feature engineering
+278,interactive dashboards
+278,Data Manipulation
+278,Power Bi
+278,Big Data Technologies
+278,Enterprise Architecture
+278,Service Design
+278,Tableau
+278,Data Cleansing
+278,Etl Tools
+278,Data Visualization
+278,Python
+279,data engineering
+279,Unit Testing
+279,Machine Learning Algorithms
+279,Data Analytics
+279,Python
+280,data engineering
+280,Unit Testing
+280,Machine Learning Algorithms
+280,Data Analytics
+280,Python
+281,Informatica IDMC
+281,Data Cataloguing
+281,Hadoop
+281,Power Bi
+281,Apache Spark
+281,Tableau
+281,Data Warehouse
+281,Devops
+281,Git
+281,Docker
+281,Advanced Analytics
+281,Databricks
+281,Aws Cloud
+281,Data Governance
+281,Kubernetes
+282,data quality principles
+282,data governance best practices
+282,Python
+282,Sql
+283,Data Quality Monitoring
+283,Data Governance
+283,Microsoft Excel
+284,Data Analysis
+284,Kanban
+284,Sybase
+284,Scrum
+284,Jira
+284,Tsql
+284,Oracle
+284,Sql
+285,Oracle System
+285,Other ERP software
+285,data visualization tools
+285,automation
+285,Oracle Ebs
+285,Microsoft Excel
+285,Sql
+285,ELT
+285,Etl
+286,Cisco CCNP certification
+286,Chef
+286,Cisco products
+286,optimization technologies
+286,network routing and switching technologies
+286,Algosec
+286,network automation
+286,Routers
+286,network security
+286,Switches
+286,Bluecoat Proxy
+286,Wlan
+286,Cisco Aci
+286,Palo Alto
+286,Ansible
+286,F5 Load Balancer
+286,Checkpoint Firewall
+286,Load Balancing
+287,HPE Compute
+287,Chef
+287,VMWare
+287,Puppet
+287,Veeam
+287,Powershell
+287,Itil
+287,Ansible
+287,Json
+287,Netbackup
+287,AWS
+287,Vsan
+287,Python
+287,Azure
+287,Gcp
+288,Data Quality Management
+288,Business Analysis
+288,Testing and Validation
+288,It Service Management
+288,Data Migration
+288,Performance Monitoring
+289,Sap Erp
+289,Data Process Analytics Systems
+289,SalesForce
+289,Power Bi
+289,Requirements Gathering
+289,Microsoft Azure
+289,Data Warehousing
+289,Data Modelling
+289,Dax
+289,Sql
+290,Preference segmentation
+290,Data collection methods
+290,Residual analysis
+290,Advanced regression modelling
+290,Adjusted chi-square
+290,BI Visualization tools
+290,Ms Excel
+290,Tableau
+290,Data mining
+290,Sql
+291,Visio
+291,metadata management tools
+291,Confluence
+291,JIRA
+291,Big Data Technologies
+292,Market Intelligence
+292,Data analytics solutions
+292,Data handling framework
+292,data models
+292,Analytics models
+293,Project Management
+293,Visio
+293,metadata management tools
+293,Confluence
+293,Agile
+293,JIRA
+293,Big Data Technologies
+294,Gen AI
+294,Ms Office
+295,Analyst
+295,salesforce
+296,Sas
+297,SAS Configuration
+297,Base Sas
+297,Sas Macro
+297,SAS SQL
+297,Sas Base
+297,SAS
+298,Kafka
+298,Azure
+298,Python
+299,metadata
+299,Java
+299,python
+299,Sql
+300,Meta Data
+300,metadata lifecycle
+300,meta data management
+300,Data Governance
+301,
+302,
+303,
+304,
+305,
+306,
+307,
+308,
+309,
+310,
+311,
+312,
+313,
+314,
+315,
+316,
+317,
+318,
+319,
+320,
+321,
+322,
+323,
+324,
+325,
+326,
+327,
+328,
+329,
+330,
+331,
+332,
+333,
+334,
+335,
+336,
+337,
+338,
+339,
+340,
+341,
